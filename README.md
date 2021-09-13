@@ -1,3 +1,14 @@
+# Warning
+Machine Flip
+Personal temporary modified version
+Use @massive688 issues/442
+Notify of deletion if there is a problem
+The following are the original instructions
+
+个人临时修改版
+使用 issues/442
+如有问题通知删除
+以下为原版说明
 # Mock.js
 <!-- 模拟请求 & 模拟数据 -->
 [![Build Status](https://travis-ci.org/nuysoft/Mock.svg?branch=refactoring)](https://travis-ci.org/nuysoft/Mock)
