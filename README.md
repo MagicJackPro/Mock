@@ -6,7 +6,7 @@ Notify of deletion if there is a problem
 The following are the original instructions
 
 个人临时修改版
-使用 issues/442
+使用 issues/442 /440
 如有问题通知删除
 以下为原版说明
 # Mock.js

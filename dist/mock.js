@@ -8357,9 +8357,10 @@ return /******/ (function(modules) { // webpackBootstrap
 	    send: function send(data) {
 	        var that = this
 	        this.custom.options.body = data
-
+	        
 	        // 原生 XHR
 	        if (!this.match) {
+	            this.custom.xhr.responseType = this.responseType || '' // fix #440 by @ SilenceTiger
 	            this.custom.xhr.send(data)
 	            return
 	        }
